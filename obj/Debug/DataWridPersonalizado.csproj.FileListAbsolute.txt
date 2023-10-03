@@ -1,0 +1,10 @@
+C:\Users\57320\source\repos\DataWridPersonalizado\bin\Debug\DataWridPersonalizado.exe.config
+C:\Users\57320\source\repos\DataWridPersonalizado\bin\Debug\DataWridPersonalizado.exe
+C:\Users\57320\source\repos\DataWridPersonalizado\bin\Debug\DataWridPersonalizado.pdb
+C:\Users\57320\source\repos\DataWridPersonalizado\obj\Debug\DataWridPersonalizado.csproj.AssemblyReference.cache
+C:\Users\57320\source\repos\DataWridPersonalizado\obj\Debug\DataWridPersonalizado.Form1.resources
+C:\Users\57320\source\repos\DataWridPersonalizado\obj\Debug\DataWridPersonalizado.Properties.Resources.resources
+C:\Users\57320\source\repos\DataWridPersonalizado\obj\Debug\DataWridPersonalizado.csproj.GenerateResource.cache
+C:\Users\57320\source\repos\DataWridPersonalizado\obj\Debug\DataWridPersonalizado.csproj.CoreCompileInputs.cache
+C:\Users\57320\source\repos\DataWridPersonalizado\obj\Debug\DataWridPersonalizado.exe
+C:\Users\57320\source\repos\DataWridPersonalizado\obj\Debug\DataWridPersonalizado.pdb
